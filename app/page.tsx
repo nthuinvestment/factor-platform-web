@@ -9,7 +9,7 @@ const Plot = dynamic(() => import("react-plotly.js"), { ssr: false });
 /** =========================
  * GitHub data source config
  * ========================= */
-const GH_OWNER = "alfred0630";
+const GH_OWNER = "nthuinvestment";
 const GH_REPO = "factor-platform-database";
 const GH_BRANCH = "main";
 
