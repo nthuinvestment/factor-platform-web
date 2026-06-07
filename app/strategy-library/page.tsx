@@ -6,7 +6,7 @@ import Link from "next/link";
 
 const Plot = dynamic(() => import("react-plotly.js"), { ssr: false });
 
-const GH_OWNER = "alfred0630";
+const GH_OWNER = "nthuinvestment";
 const GH_REPO = "factor-platform-database";
 const GH_BRANCH = "main";
 
