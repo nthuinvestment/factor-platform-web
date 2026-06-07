@@ -1,7 +1,7 @@
 import React from "react";
 import FactorDetailClient from "./FactorDetailClient";
 
-const GH_OWNER = "alfred0630";
+const GH_OWNER = "nthuinvestment";
 const GH_REPO = "factor-platform-database";
 const GH_BRANCH = "main";
 const RAW_BASE = `https://raw.githubusercontent.com/${GH_OWNER}/${GH_REPO}/${GH_BRANCH}`;
